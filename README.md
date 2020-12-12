@@ -4,4 +4,6 @@ A Discord bot that can translate text from one language to another using Google 
 ## Commands
 ```diff
 !translate (from) (to) (text being translated)
+
+Example: !translate english russian Hello!
 ```
